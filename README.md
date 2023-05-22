@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o Matheus de Arruda.
 
 <div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=XPMatth&show_icons=true&theme=highcontrast"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XPMatth&layout=compact&theme=highcontrast"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=xpmatth&show_icons=true&theme=highcontrast"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats=true&theme=highcontrast"/>
   </div>
   
   ##
